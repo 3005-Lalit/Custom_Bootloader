@@ -1,0 +1,30 @@
+!SESSION 2021-10-27 17:34:24.360 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\My_Workspace\Keil_Workspace_Bootloader
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-10-27 17:34:28.181
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-10-27 17:34:28.243
+!MESSAGE Log4j initialized with config file D:\My_Workspace\Keil_Workspace_Bootloader\.metadata\.log4j.xml
+
+!ENTRY org.eclipse.core.jobs 2 2 2021-10-27 17:34:35.203
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$40
+!SESSION 2021-11-11 12:27:17.337 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-11-11 12:27:25.446
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-11-11 12:27:25.539
+!MESSAGE Log4j initialized with config file D:\My_Workspace\Keil_Workspace_Bootloader\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-11-11 12:27:35.026
+!MESSAGE Started RMI Server, listening on port 41337
